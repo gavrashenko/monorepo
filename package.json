@@ -1,6 +1,6 @@
 {
   "name": "monorepo",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "packages/app/index.js",
   "license": "MIT",
   "private": true,
@@ -17,7 +17,7 @@
     "update:version": "lerna version --no-push"
   },
   "devDependencies": {
-    "jest": "^24.7.1",	
+    "jest": "^24.7.1",
     "lerna": "^3.13.2"
   }
 }
